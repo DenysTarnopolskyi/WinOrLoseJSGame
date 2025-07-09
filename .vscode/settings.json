@@ -1,4 +1,4 @@
 {
-    "javascript.validate.enable": false,
+    "javascript.validate.enable": true,
     "liveServer.settings.port": 5501
 }
